@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=58a6ff&center=true&vCenter=true&width=660&lines=AI+%2B+Full-Stack+Software+Engineer;Currently%3A+agentic+AI+systems;Java+%2F+Spring+Boot+%C2%B7+Elasticsearch+%C2%B7+large-scale+data;Distributed+systems+%C2%B7+ML+pipelines+%C2%B7+NLP;Cross-platform+tooling+%C2%B7+desktop+%C2%B7+web;Just+a+curious+wanderer" alt="what I build" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=58a6ff&center=true&vCenter=true&width=820&lines=AI+%2B+Full-Stack+Software+Engineer;Currently%3A+agentic+AI+systems;Java+%2F+Spring+Boot+%C2%B7+Elasticsearch+%C2%B7+large-scale+data;Distributed+systems+%C2%B7+ML+pipelines+%C2%B7+NLP;Cross-platform+tooling+%C2%B7+desktop+%C2%B7+web;Just+a+curious+wanderer" alt="what I build" />
   </a>
 </p>
 
