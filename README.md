@@ -127,14 +127,7 @@ Full archive on [brhn.me/posts →](https://www.brhn.me/posts)
 
 ---
 
-### 📊 Stats
-
-<a href="https://github.com/brhn-me">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=brhn-me&show_icons=true&theme=github_dark&hide_border=true&card_width=480&cache_seconds=7200" />
-</a>
-<a href="https://github.com/brhn-me">
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=brhn-me&layout=compact&theme=github_dark&hide_border=true&card_width=320&cache_seconds=7200" />
-</a>
+### 📊 Activity
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brhn-me&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
