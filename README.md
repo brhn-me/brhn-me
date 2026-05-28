@@ -127,10 +127,10 @@ Full archive on [brhn.me/posts →](https://www.brhn.me/posts)
 
 <p>
   <a href="https://github.com/brhn-me">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=brhn-me&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&theme=transparent" alt="github stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=brhn-me&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="github stats" />
   </a>
   <a href="https://github.com/brhn-me">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=brhn-me&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss&theme=transparent" alt="top languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhn-me&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
   </a>
 </p>
 
