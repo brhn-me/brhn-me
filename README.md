@@ -129,14 +129,12 @@ Full archive on [brhn.me/posts →](https://www.brhn.me/posts)
 
 ### 📊 Stats
 
-<p>
-  <a href="https://github.com/brhn-me">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=brhn-me&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="github stats" />
-  </a>
-  <a href="https://github.com/brhn-me">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brhn-me&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" alt="top languages" />
-  </a>
-</p>
+<a href="https://github.com/brhn-me">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=brhn-me&show_icons=true&theme=github_dark&hide_border=true&card_width=480&cache_seconds=7200" />
+</a>
+<a href="https://github.com/brhn-me">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=brhn-me&layout=compact&theme=github_dark&hide_border=true&card_width=320&cache_seconds=7200" />
+</a>
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brhn-me&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
