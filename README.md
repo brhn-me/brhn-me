@@ -41,12 +41,14 @@ The code here ranges from production-grade backend services to weekend research 
 **AI / ML**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,fastapi,redis" alt="ai-ml" /></a>
-&nbsp; Agentic systems (current focus) · LLM agents · NLP · RAG · vector search · ONNX Runtime · Weights & Biases · multimodal models · edge inference
+
+Agentic systems (current focus) · LLM agents · NLP · RAG · vector search · ONNX Runtime · Weights & Biases · multimodal models · edge inference
 
 **Backend & distributed systems**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,hibernate,fastapi,flask,redis,grafana,prometheus" alt="backend" /></a>
-&nbsp; Spring Boot · JPA / Hibernate · gRPC · WebSockets · event-driven architecture · microservices · REST APIs · OpenTelemetry
+
+Spring Boot · JPA / Hibernate · gRPC · WebSockets · event-driven architecture · microservices · REST APIs · OpenTelemetry
 
 **Frontend & cross-platform**
 
@@ -55,12 +57,14 @@ The code here ranges from production-grade backend services to weekend research 
 **Infra & tooling**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" alt="infra" /></a>
-&nbsp; Loki · OpenShift · Linux sandboxing
+
+Loki · OpenShift · Linux sandboxing
 
 **Search & data**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=elasticsearch,postgres,mysql,mongodb,kafka" alt="data" /></a>
-&nbsp; Elasticsearch (cluster ops, indexing pipelines) · Lucene · Hadoop · Spark · Apache Kafka
+
+Elasticsearch (cluster ops, indexing pipelines) · Lucene · Hadoop · Spark · Apache Kafka
 
 ---
 
