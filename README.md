@@ -1,25 +1,150 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm Burhan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brhn-me&label=Profile%20views&color=0e75b6&style=flat" alt="brhn-me" /> </p>
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> 
-
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-<!-- <a href="https://twitter.com/brhn_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brhn_me" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/brhn-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brhn-me" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/836459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="836459" height="30" width="40" /></a> -->
-<!-- <a href="https://medium.com/@brhnme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brhnme" height="30" width="40" /></a> -->
 <!--
-  <a href="https://www.leetcode.com/brhndotme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="brhndotme" height="30" width="40" /></a> -->
-<!--<a href="/https://www.brhn.me/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.brhn.me/feed/" height="30" width="40" /></a> -->
+  brhn-me / README.md
+  Curated GitHub profile landing page for github.com/brhn-me.
+  Generated from app/about/profile.ts and app/projects/data/*.mdx in
+  the brhn.me workspace. See ./blog-post-workflow.yml for the blog
+  auto-injector that fills BLOG-POST-LIST below.
+-->
+
+<p align="center">
+  <a href="https://www.brhn.me">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=brhn%40github&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=AI%20%E2%80%A2%20full-stack%20engineering%20%E2%80%A2%20distributed%20systems&descSize=14&descAlignY=66&animation=fadeIn" alt="brhn" />
+  </a>
 </p>
 
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
--->
+<p align="center">
+  <a href="https://www.brhn.me"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-brhn.me-0e75b6?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/brhn-me"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-brhn--me-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=brhn-me&label=profile%20views&color=0e75b6&style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=58a6ff&center=true&vCenter=true&width=660&lines=AI+%2B+Full-Stack+Software+Engineer;Currently%3A+agentic+AI+systems;Java+%2F+Spring+Boot+%C2%B7+Elasticsearch+%C2%B7+large-scale+data;Distributed+systems+%C2%B7+ML+pipelines+%C2%B7+NLP;Cross-platform+tooling+%C2%B7+desktop+%C2%B7+web;Just+a+curious+wanderer" alt="what I build" />
+  </a>
+</p>
+
+---
+
+I work across **AI and full-stack software engineering**. Current primary focus is **agentic AI systems**. Day-to-day toolkit spans Java / Spring Boot microservices, Elasticsearch and large-scale data pipelines, applied ML and NLP, secure REST APIs and event-driven backends, distributed observability, and cross-platform clients (web, desktop, WebAssembly). I like systems that are reliable, well-instrumented, and pleasant to operate.
+
+The code here ranges from production-grade backend services to weekend research experiments. Everything I open-source lives below; longer write-ups live on [brhn.me](https://www.brhn.me).
+
+---
+
+### 🛠 What I work with
+
+**Languages**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,go,ts,rust,bash" alt="languages" /></a>
+
+**AI / ML**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,fastapi,redis" alt="ai-ml" /></a>
+&nbsp; Agentic systems (current focus) · LLM agents · NLP · RAG · vector search · ONNX Runtime · Weights & Biases · multimodal models · edge inference
+
+**Backend & distributed systems**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,hibernate,fastapi,flask,redis,grafana,prometheus" alt="backend" /></a>
+&nbsp; Spring Boot · JPA / Hibernate · gRPC · WebSockets · event-driven architecture · microservices · REST APIs · OpenTelemetry
+
+**Frontend & cross-platform**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tauri,wasm,tailwind,angularjs" alt="frontend" /></a>
+
+**Infra & tooling**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" alt="infra" /></a>
+&nbsp; Loki · OpenShift · Linux sandboxing
+
+**Search & data**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=elasticsearch,postgres,mysql,mongodb,kafka" alt="data" /></a>
+&nbsp; Elasticsearch (cluster ops, indexing pipelines) · Lucene · Hadoop · Spark · Apache Kafka
+
+---
+
+### 🧭 Selected projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>
+        <a href="https://www.brhn.me/projects/fotu">Fotu</a>
+      </h4>
+      <p><em>Photo Organization & Deduplication Suite</em></p>
+      <p>Multi-tool suite for managing large photo libraries: device sync with EXIF-based organization, multi-method deduplication (exact, perceptual, video, CNN), and a unified desktop app. Source files are <strong>never</strong> modified or deleted.</p>
+      <p>
+        <code>Python</code> · <code>Go</code> · <code>React</code> · <code>Tauri</code> · <code>Computer Vision</code>
+      </p>
+      <p>
+        <a href="https://github.com/brhn-me/fotu">→ Code</a> · <a href="https://www.brhn.me/projects/fotu">→ Details</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>
+        <a href="https://www.brhn.me/projects/likhon">Likhon</a>
+      </h4>
+      <p><em>Bangla Phonetic Input Engine</em></p>
+      <p>Phonetic input method for typing Bangla from romanized text, combining rule-based transliteration with statistical language modeling. Ships as both a Linux IBus engine and a zero-runtime WebAssembly library.</p>
+      <p>
+        <code>Rust</code> · <code>WebAssembly</code> · <code>NLP</code> · <code>Linux</code> · <code>FSTs</code>
+      </p>
+      <p>
+        <a href="https://github.com/brhn-me/likhon">→ Code</a> · <a href="https://www.brhn.me/projects/likhon">→ Details</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>
+        <a href="https://www.brhn.me/projects/pipilika">Pipilika</a>
+      </h4>
+      <p><em>First Bangla Search Engine</em></p>
+      <p>Distributed web crawler and custom Bangla content parser (~80% accuracy). Launched in 2013, drew national media attention and became a research platform.</p>
+      <p>
+        <code>Search Engine</code> · <code>Lucene</code> · <code>Hadoop</code> · <code>NLP</code> · <code>Java</code>
+      </p>
+      <p>
+        <a href="https://www.brhn.me/projects/pipilika">→ Details</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+More on [brhn.me/projects →](https://www.brhn.me/projects)
+
+---
+
+### ✍️ Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Full archive on [brhn.me/posts →](https://www.brhn.me/posts)
+
+---
+
+### 📊 Stats
+
+<p>
+  <a href="https://github.com/brhn-me">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=brhn-me&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&theme=transparent" alt="github stats" />
+  </a>
+  <a href="https://github.com/brhn-me">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=brhn-me&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss&theme=transparent" alt="top languages" />
+  </a>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brhn-me&theme=github-compact&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    <a href="https://www.brhn.me">brhn.me</a> &nbsp;·&nbsp;
+    <a href="https://linkedin.com/in/brhn-me">linkedin</a> &nbsp;·&nbsp;
+    <a href="https://www.brhn.me/posts">writing</a> &nbsp;·&nbsp;
+    <a href="https://www.brhn.me/projects">projects</a>
+  </sub>
+</p>
