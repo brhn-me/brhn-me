@@ -121,6 +121,10 @@ More on [brhn.me/projects →](https://www.brhn.me/projects)
 ### ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing Vim: The Unsung Hero of Code Editors](https://www.brhn.me/blog/vim)
+- [Spaces vs. Tabs: The Indentation Debate Continues](https://www.brhn.me/blog/spaces-vs-tabs)
+- [The Power of Static Typing in Programming](https://www.brhn.me/blog/static-typing)
+- [ডিম পাড়ে হাঁসে, খায় বাগডাশে](https://brhnme.medium.com/%E0%A6%A1%E0%A6%BF%E0%A6%AE-%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%81%E0%A6%B8%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%A1%E0%A6%BE%E0%A6%B6%E0%A7%87-b27df5649381?source=rss-867d3ab0366f------2)
 <!-- BLOG-POST-LIST:END -->
 
 Full archive on [brhn.me/posts →](https://www.brhn.me/posts)
