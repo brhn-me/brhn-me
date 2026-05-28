@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.brhn.me">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=brhn%40github&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=AI%20%E2%80%A2%20full-stack%20engineering%20%E2%80%A2%20distributed%20systems&descSize=14&descAlignY=66&animation=fadeIn" alt="brhn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=%40brhn-me&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=AI%20%E2%80%A2%20full-stack%20engineering%20%E2%80%A2%20distributed%20systems&descSize=14&descAlignY=66&animation=fadeIn" alt="brhn-me" />
   </a>
 </p>
 
