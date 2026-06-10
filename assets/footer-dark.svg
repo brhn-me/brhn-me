@@ -1,0 +1,23 @@
+<svg width="850" height="110" viewBox="0 0 850 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="30" x2="850" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f6feb" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0.16"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="50" x2="850" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58a6ff" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0.08"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect width="850" height="110" rx="14"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <path d="M0 44 Q106.25 20 212.5 44 T425 44 T637.5 44 T850 44 T1062.5 44 T1275 44 T1487.5 44 T1700 44 V111 H0 Z" fill="url(#w1)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-850 0" dur="26s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 62 Q106.25 80 212.5 62 T425 62 T637.5 62 T850 62 T1062.5 62 T1275 62 T1487.5 62 T1700 62 V111 H0 Z" fill="url(#w2)">
+      <animateTransform attributeName="transform" type="translate" from="-850 0" to="0 0" dur="19s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

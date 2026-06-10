@@ -1,0 +1,34 @@
+<svg width="420" height="200" viewBox="0 0 420 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fotu — photo organization and deduplication suite">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="420" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0.35"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect x="1" y="1" width="418" height="198" rx="14"/>
+    </clipPath>
+  </defs>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
+    <rect x="1" y="1" width="418" height="198" rx="14" fill="#0d1117" stroke="url(#border)" stroke-width="1.5"/>
+    <g clip-path="url(#round)">
+      <circle cx="420" cy="0" r="130" fill="#1f6feb" opacity="0.08"/>
+    </g>
+    <text x="24" y="42" font-size="22" font-weight="700" fill="#e6edf3">Fotu</text>
+    <text x="24" y="66" font-size="13" font-style="italic" fill="#58a6ff">Photo organization &amp; deduplication suite</text>
+    <text x="24" y="94" font-size="12" fill="#8b949e">Device sync with EXIF-based organization and multi-method</text>
+    <text x="24" y="112" font-size="12" fill="#8b949e">dedup — exact, perceptual, video, CNN. Originals never touched.</text>
+    <g font-size="11" text-anchor="middle">
+      <rect x="24" y="148" width="54" height="24" rx="12" fill="#1f6feb" fill-opacity="0.13" stroke="#1f6feb" stroke-opacity="0.35"/>
+      <text x="51" y="164" fill="#79c0ff">Python</text>
+      <rect x="86" y="148" width="30" height="24" rx="12" fill="#1f6feb" fill-opacity="0.13" stroke="#1f6feb" stroke-opacity="0.35"/>
+      <text x="101" y="164" fill="#79c0ff">Go</text>
+      <rect x="124" y="148" width="48" height="24" rx="12" fill="#1f6feb" fill-opacity="0.13" stroke="#1f6feb" stroke-opacity="0.35"/>
+      <text x="148" y="164" fill="#79c0ff">React</text>
+      <rect x="180" y="148" width="48" height="24" rx="12" fill="#1f6feb" fill-opacity="0.13" stroke="#1f6feb" stroke-opacity="0.35"/>
+      <text x="204" y="164" fill="#79c0ff">Tauri</text>
+      <rect x="236" y="148" width="108" height="24" rx="12" fill="#1f6feb" fill-opacity="0.13" stroke="#1f6feb" stroke-opacity="0.35"/>
+      <text x="290" y="164" fill="#79c0ff">Computer Vision</text>
+    </g>
+  </g>
+</svg>

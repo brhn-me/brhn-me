@@ -1,0 +1,65 @@
+name: Generate profile assets
+
+on:
+  schedule:
+    - cron: '17 5 * * *' # daily, offset from the hourly blog job to avoid push races
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    name: Render stats cards and commit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=brhn-me&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=percentile
+          path: assets/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=brhn-me&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=percentile
+          path: assets/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=brhn-me&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8
+          path: assets/langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=brhn-me&layout=compact&hide_border=true&bg_color=00000000&langs_count=8
+          path: assets/langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-*.svg assets/langs-*.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh profile stats cards"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi

@@ -1,0 +1,20 @@
+<svg width="850" height="44" viewBox="0 0 850 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI + full-stack software engineer">
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="18" font-weight="500" text-anchor="middle" fill="#58a6ff">
+    <text x="425" y="28" opacity="0">
+      AI + Full-Stack Software Engineer
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="425" y="28" opacity="0">
+      Currently building: agentic AI systems
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="425" y="28" opacity="0">
+      Java · Spring Boot · Elasticsearch · large-scale data
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="8s" repeatCount="indefinite"/>
+    </text>
+    <text x="425" y="28" opacity="0">
+      Distributed systems · ML pipelines · NLP
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.22;0.27;1" dur="16s" begin="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
