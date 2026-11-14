@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="147.98"
+          width="147.99"
           height="8"
           fill="#e34c26"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="147.98"
+          x="147.99"
           y="0"
-          width="71.5"
+          width="71.49"
           height="8"
           fill="#DA5B0B"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="219.48"
+          x="219.48000000000002"
           y="0"
           width="12.48"
           height="8"
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.95999999999998"
+          x="231.96"
           y="0"
           width="16.73"
           height="8"
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.68999999999997"
+          x="238.69"
           y="0"
           width="13.73"
           height="8"
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.41999999999996"
+          x="242.42"
           y="0"
           width="13.18"
           height="8"
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.59999999999997"
+          x="245.6"
           y="0"
           width="12.54"
           height="8"
@@ -206,7 +206,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.13999999999996"
+          x="248.14"
           y="0"
           width="11.86"
           height="8"
@@ -219,7 +219,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 59.19%
+        HTML 59.20%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
